@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "completed": true,
+      "content": "Masło"
+    },
+    {
+      "content": "Mąka",
+      "completed": true,
+      "id": 3
+    },
+    {
+      "content": "Woda niegazowana",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "content": "Ręczniki papierowe",
+      "completed": false,
+      "id": 5
+    }
+  ]
+}
